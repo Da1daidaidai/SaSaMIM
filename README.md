@@ -1,2 +1,2 @@
 # SaSaMIM
-Synthetic Anatomical Semantics-Aware Masked Image Modeling
+Code will be available upen journel paper acceptance.
